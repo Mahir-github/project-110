@@ -1,0 +1,16 @@
+#shoes {
+    width: 200px;
+}
+#micout {
+    position: relative;
+    margin-bottom: 100px;
+    font-family: 'Patrick Hand', cursive;
+}
+#Modout {
+    position: relative;
+    font-family: 'Patrick Hand', cursive;
+    margin-bottom: 45px;
+}
+#Result1 {
+    font-family: 'Patrick Hand', cursive;
+}
